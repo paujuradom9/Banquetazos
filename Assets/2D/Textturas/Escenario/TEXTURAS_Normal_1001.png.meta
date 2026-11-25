@@ -1,15 +1,12 @@
 fileFormatVersion: 2
-guid: 850ef82a19cecb3419fefe9f367c7d7b
+guid: 3ed640d4953d1b741b89ce39186fcb21
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -3467235898906194485
-    second: capas CORTINA (1)_0
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -40,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
+    wrapU: 0
+    wrapV: 0
     wrapW: 0
-  nPOTScale: 0
+  nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 0
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -55,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: 0
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -137,78 +134,12 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: capas CORTINA
-      rect:
-        serializedVersion: 2
-        x: 860
-        y: 0
-        width: 974
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bcdc635f157e1efc0800000000000000
-      internalID: -3467235898906194485
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GRAFFITTI
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 442
-        width: 421
-        height: 551
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ed57a454a471074a80070e23b4aba31
-      internalID: 2022147291
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GRAFFITTI BAMAN
-      rect:
-        serializedVersion: 2
-        x: 345
-        y: 82
-        width: 424
-        height: 329
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a45c425d6269a0e4c87c10b0b3694263
-      internalID: 1790259203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 8b993045b4649434f8666ad2e626a1d8
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -217,10 +148,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      GRAFFITTI: 2022147291
-      GRAFFITTI BAMAN: 1790259203
-      capas CORTINA: -3467235898906194485
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

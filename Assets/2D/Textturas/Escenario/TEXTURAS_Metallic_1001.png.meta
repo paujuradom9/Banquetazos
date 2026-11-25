@@ -1,15 +1,12 @@
 fileFormatVersion: 2
-guid: 91e016194340a8f43b25365da5c22075
+guid: 61c67acd045f79044b665ef0ce076b4e
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -7866627348517180560
-    second: capas AJUSTES (1)_0
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -40,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
+    wrapU: 0
+    wrapV: 0
     wrapW: 0
-  nPOTScale: 0
+  nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 0
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -55,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: 0
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -137,122 +134,12 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: poster
-      rect:
-        serializedVersion: 2
-        x: 474
-        y: 34
-        width: 765
-        height: 946
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 16, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 07ba24f0b1024d290800000000000000
-      internalID: -7866627348517180560
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: lucha
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 570
-        width: 433
-        height: 436
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d523ac4b99b470c43a276d7b4cb54f4e
-      internalID: 313417187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: poste
-      rect:
-        serializedVersion: 2
-        x: 1302
-        y: 172
-        width: 501
-        height: 812
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0722af257e144db4fb1937335064ee1c
-      internalID: 1803478337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vol
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 276
-        width: 419
-        height: 139
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 39bef28e834ba8243a5983e73ae16c41
-      internalID: 1619473539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ctrl
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 48
-        width: 412
-        height: 138
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ccea7c2d13caaf4b81e3e1ef07e6e18
-      internalID: -666447491
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5a1513e4f68b7654683574ac51ad73aa
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -261,12 +148,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      ctrl: -666447491
-      lucha: 313417187
-      poste: 1803478337
-      poster: -7866627348517180560
-      vol: 1619473539
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
