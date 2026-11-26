@@ -699,6 +699,7 @@ GameObject:
   - component: {fileID: 1362275461}
   - component: {fileID: 1362275460}
   - component: {fileID: 1362275463}
+  - component: {fileID: 1362275464}
   m_Layer: 5
   m_Name: 'press to '
   m_TagString: Untagged
@@ -829,13 +830,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 1362275458}
   m_Enabled: 1
   m_EditorHideFlags: 0
-<<<<<<< HEAD
   m_Script: {fileID: 11500000, guid: 0c9a04ddef754804aa2dc3a26ece346a, type: 3}
-=======
-  m_Script: {fileID: 11500000, guid: b84af1f159d862748a32625505b49ce0, type: 3}
->>>>>>> 216b1eedeb7d6a10498c78717ec9f06ff8cf3b2c
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CambioEscena
+--- !u!114 &1362275464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1362275458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a064ce0767b2f324194afc7a89919f26, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IrAMenuJugar
 --- !u!1 &1910718921
 GameObject:
   m_ObjectHideFlags: 0
