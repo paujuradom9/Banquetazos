@@ -11,6 +11,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu Jugar.unity
     guid: e15b3ab507c406242abd1330b2dec884
+  - enabled: 1
+    path: Assets/Scenes/Elige luchador.unity
+    guid: d8fe6908b7de38042ac64ae84fd30dd4
+  - enabled: 1
+    path: Assets/Scenes/Elige Escenario.unity
+    guid: 19a1ab1f878c40f4e9e18481fea28f41
+  - enabled: 1
+    path: Assets/Scenes/GAME scene.unity
+    guid: 16f44012c45564f41a2929a799588433
+  - enabled: 1
+    path: Assets/Scenes/Ajustes.unity
+    guid: def8ca132337a09439d55880bd2db9ca
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
