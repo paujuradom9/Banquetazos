@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b068593810d5fde408a28593b2918127
+guid: 8286885cdbfb65145a199655e64b7c95
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1283667507198311472
-    second: botones_0
+      213: 6167294566295219053
+    second: Botones_el_remaster(llamenADios)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,32 +109,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -142,10 +116,10 @@ TextureImporter:
       name: corcholata
       rect:
         serializedVersion: 2
-        x: 14
-        y: 741
-        width: 535
-        height: 523
+        x: 7
+        y: 732
+        width: 544
+        height: 535
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 03c3440fbc080d110800000000000000
-      internalID: 1283667507198311472
+      spriteID: d6b29397bb1a69550800000000000000
+      internalID: 6167294566295219053
       vertices: []
       indices: 
       edges: []
@@ -164,10 +138,10 @@ TextureImporter:
       name: boton1
       rect:
         serializedVersion: 2
-        x: 567
-        y: 1090
+        x: 565
+        y: 1089
         width: 382
-        height: 178
+        height: 182
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,8 +150,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77216231adcf6024da28949d3f4b2523
-      internalID: 1085547395
+      spriteID: c5979c07e0146744ca6d02e858c14a09
+      internalID: -1350679781
       vertices: []
       indices: 
       edges: []
@@ -187,9 +161,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 565
-        y: 918
-        width: 383
-        height: 170
+        y: 914
+        width: 384
+        height: 173
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,19 +172,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d2e2994dca5ef040a3fd44058c1bbb9
-      internalID: 2039215341
+      spriteID: c0b7cf5990b23464a84dfdae9e6dd3ce
+      internalID: -1709469770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boton gris
+      name: boton3
       rect:
         serializedVersion: 2
-        x: 569
-        y: 738
-        width: 376
+        x: 570
+        y: 740
+        width: 373
         height: 172
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -220,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f89647993409b9469a8291636f944ff
-      internalID: 1268366801
+      spriteID: 05f990716864f1543af8f821ff36439e
+      internalID: -138106010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flechas
+      name: candado
       rect:
         serializedVersion: 2
-        x: 992
-        y: 1083
-        width: 275
-        height: 186
+        x: 952
+        y: 854
+        width: 45
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,20 +216,86 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c82d899335da3d7458843b4f355252ed
-      internalID: -1818762211
+      spriteID: fe0b23ac863256e42b21352b1c666769
+      internalID: 393163800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wasd
+      name: flachas
       rect:
         serializedVersion: 2
-        x: 1003
-        y: 907
+        x: 997
+        y: 1086
+        width: 269
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb031587fa8d3f4a97fc703614c088f
+      internalID: 637560548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdw
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 917
+        width: 257
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f2af98ca5c5054c9a8f520eaa421b0
+      internalID: -1710596795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shift
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 555
+        width: 189
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8fea232100cb04e890ddc04b3cee75
+      internalID: 1904839665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter r
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 558
         width: 261
-        height: 177
+        height: 280
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,20 +304,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b83c0d492bf32944818dea747554e51
-      internalID: -1585493640
+      spriteID: f44c20c3ca062c54385b528475676696
+      internalID: -687172169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enter
+      name: e
       rect:
         serializedVersion: 2
-        x: 1049
-        y: 562
-        width: 219
-        height: 281
+        x: 918
+        y: 559
+        width: 82
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +326,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09f755b8bb6c5a84ba6edf7ec0aaa025
-      internalID: -48142344
+      spriteID: 7b443a2b4c74ec6438ede5b23d90b161
+      internalID: 1550982931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: space
+      name: pausa
       rect:
         serializedVersion: 2
-        x: 852
-        y: 489
+        x: 851
+        y: 486
         width: 416
-        height: 67
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,20 +348,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adb60da555c4cef42a2729c7c2b118b1
-      internalID: 571483337
+      spriteID: 448320c3acc5431458cb06c1021e8f95
+      internalID: 226958439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lock
+      name: home1
       rect:
         serializedVersion: 2
-        x: 951
-        y: 849
-        width: 48
-        height: 68
+        x: 774
+        y: 342
+        width: 94
+        height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,20 +370,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9129a181d9e7e94bbb0568a99a53550
-      internalID: 1128952624
+      spriteID: 0e3f44a58aa7e30459b5a1435b82b327
+      internalID: 437931692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: casa1
+      name: home2
       rect:
         serializedVersion: 2
-        x: 763
-        y: 338
-        width: 107
-        height: 110
+        x: 875
+        y: 345
+        width: 94
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,41 +392,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 024bcbd6b64a4484c843073804df0a4b
-      internalID: 266023847
+      spriteID: abadaffacf4ed7f4d92dc072366ecabc
+      internalID: -1253656756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: X
+      name: x
       rect:
         serializedVersion: 2
-        x: 982
-        y: 275
-        width: 78
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b180aa6142280f46949e879e09da5ba
-      internalID: 1105791929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pause
-      rect:
-        serializedVersion: 2
-        x: 1063
-        y: 278
-        width: 74
+        x: 984
+        y: 279
+        width: 76
         height: 75
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -396,20 +414,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7b7c8021cdffbd428b8618ba4bef94d
-      internalID: 1213778671
+      spriteID: fc9f74cfd815b464e98583365c5aa43f
+      internalID: -1005432243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: continue
+      name: botonpausa
       rect:
         serializedVersion: 2
-        x: 1145
-        y: 281
-        width: 104
-        height: 71
+        x: 1063
+        y: 279
+        width: 73
+        height: 74
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,8 +436,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc7b881c62387904d9b8c1403bf85581
-      internalID: -838755403
+      spriteID: e4ab0df5159b0924f9d151a9180f1012
+      internalID: -324853867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonsig
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 280
+        width: 102
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6472a3c84b4cdb34abc47c91f652e48a
+      internalID: -1608626489
       vertices: []
       indices: 
       edges: []
@@ -430,8 +470,8 @@ TextureImporter:
         serializedVersion: 2
         x: 20
         y: 620
-        width: 598
-        height: 89
+        width: 602
+        height: 82
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,8 +480,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38fcfe825c765774487840446bb4d1b3
-      internalID: 1254532688
+      spriteID: 16ad6b04858d7b24787bd7aa1ee118a7
+      internalID: 1910298079
       vertices: []
       indices: 
       edges: []
@@ -450,10 +490,10 @@ TextureImporter:
       name: botella2
       rect:
         serializedVersion: 2
-        x: 19
-        y: 533
-        width: 596
-        height: 79
+        x: 18
+        y: 536
+        width: 603
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,8 +502,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05235a49756565847838515166a83cbb
-      internalID: -1058094966
+      spriteID: f885b7a306881914696245a7734baa44
+      internalID: 1449574570
       vertices: []
       indices: 
       edges: []
@@ -472,10 +512,10 @@ TextureImporter:
       name: botella3
       rect:
         serializedVersion: 2
-        x: 17
-        y: 448
-        width: 596
-        height: 78
+        x: 19
+        y: 447
+        width: 600
+        height: 83
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,8 +524,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f46f51e724d15074bbbadafbd240e7b0
-      internalID: -254559149
+      spriteID: 5709a7eddfca2344f9099f75f0754c03
+      internalID: -976001496
       vertices: []
       indices: 
       edges: []
@@ -494,97 +534,9 @@ TextureImporter:
       name: botella4
       rect:
         serializedVersion: 2
-        x: 19
-        y: 362
-        width: 593
-        height: 81
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61483dd3a6d71e5408c43371218a47f8
-      internalID: -359999226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: botella5
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 279
-        width: 591
-        height: 77
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b9fe14d395312d24a899f471ff4f7402
-      internalID: 340462347
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: botella6
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 201
-        width: 592
-        height: 74
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3149c722c94ae3c4ba9f43b9bb992ad0
-      internalID: -305960369
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: botella7
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 107
-        width: 593
-        height: 84
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e68a09b86cedce4183ed2227d444441
-      internalID: 2050308408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: botella8
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 23
-        width: 592
+        x: 20
+        y: 361
+        width: 600
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -594,20 +546,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36c9ad44f1150364eb42427f12afab2b
-      internalID: -13213073
+      spriteID: e8368924e800d494e895fcf06f40b653
+      internalID: -790061016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: botella9
+      name: botella5
       rect:
         serializedVersion: 2
-        x: 629
-        y: 99
-        width: 595
-        height: 88
+        x: 19
+        y: 278
+        width: 600
+        height: 79
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -616,18 +568,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad900f1dc9c574648965ace9271faa71
-      internalID: -990746716
+      spriteID: 50a7e9de7ad51284ba1f1b29949f61da
+      internalID: 1823099912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: botella10
+      name: botella6
       rect:
         serializedVersion: 2
-        x: 629
-        y: 13
+        x: 20
+        y: 193
+        width: 598
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88101724c6e47f641bdccbcd882cf89b
+      internalID: -1805952695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botella7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 107
         width: 597
         height: 80
       alignment: 0
@@ -638,8 +612,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d9ddfd619b784a42aa627244c200134
-      internalID: -1333352296
+      spriteID: 7969b6accc11d944580812a7398c3aa0
+      internalID: 1914314037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botella8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 22
+        width: 598
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21528cdf3798a8f4d81970bc25fc6585
+      internalID: 1143043706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botella9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 98
+        width: 605
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831a73b4196271a47b7de1ab2afa160f
+      internalID: -1988090568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botella10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 12
+        width: 607
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47afeaec9967fa445bd815b8427c46c7
+      internalID: -1866752168
       vertices: []
       indices: 
       edges: []
@@ -648,10 +688,10 @@ TextureImporter:
       name: botella11
       rect:
         serializedVersion: 2
-        x: 625
-        y: 187
-        width: 601
-        height: 80
+        x: 628
+        y: 189
+        width: 608
+        height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -660,8 +700,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb51818207669e94cb0710d8fa7e1ba1
-      internalID: -1718613473
+      spriteID: 2cc52901f093a9e40b825935ffaea2c9
+      internalID: 1120634130
       vertices: []
       indices: 
       edges: []
@@ -670,7 +710,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f1a448db0bfef4c44aac4a6add23927a
+    spriteID: 8ed32484d1774b7468a8f999da52f3e0
     internalID: 0
     vertices: []
     indices: 
@@ -680,30 +720,33 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      X: 1105791929
-      botella1: 1254532688
-      botella10: -1333352296
-      botella11: -1718613473
-      botella2: -1058094966
-      botella3: -254559149
-      botella4: -359999226
-      botella5: 340462347
-      botella6: -305960369
-      botella7: 2050308408
-      botella8: -13213073
-      botella9: -990746716
-      boton gris: 1268366801
-      boton1: 1085547395
-      boton2: 2039215341
-      casa1: 266023847
-      continue: -838755403
-      corcholata: 1283667507198311472
-      enter: -48142344
-      flechas: -1818762211
-      lock: 1128952624
-      pause: 1213778671
-      space: 571483337
-      wasd: -1585493640
+      asdw: -1710596795
+      botella1: 1910298079
+      botella10: -1866752168
+      botella11: 1120634130
+      botella2: 1449574570
+      botella3: -976001496
+      botella4: -790061016
+      botella5: 1823099912
+      botella6: -1805952695
+      botella7: 1914314037
+      botella8: 1143043706
+      botella9: -1988090568
+      boton1: -1350679781
+      boton2: -1709469770
+      boton3: -138106010
+      botonpausa: -324853867
+      botonsig: -1608626489
+      candado: 393163800
+      corcholata: 6167294566295219053
+      e: 1550982931
+      enter r: -687172169
+      flachas: 637560548
+      home1: 437931692
+      home2: -1253656756
+      pausa: 226958439
+      shift: 1904839665
+      x: -1005432243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

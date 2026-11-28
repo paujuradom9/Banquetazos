@@ -169,7 +169,7 @@ TextureImporter:
         width: 541
         height: 284
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -178,6 +178,116 @@ TextureImporter:
       bones: []
       spriteID: 6d3f23f629f837d479c1ce17f7150a3b
       internalID: 186318640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaz
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 7
+        width: 362
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3cdd5e580ee1c4ab377e4145d67f96
+      internalID: -1245894989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomala
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 205
+        width: 448
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90973a9cbd141164997643eeb398fe3e
+      internalID: -2032177352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mareado 1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 386
+        width: 326
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e879d7fb3008dd94dbd5ed47893e2e5d
+      internalID: -637539708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mareado 2
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 386
+        width: 313
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df70c49011661394e90dceb3e61955a1
+      internalID: 1235034832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palea!
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 435
+        width: 486
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe2eac42de3de0449c6d04363114af8
+      internalID: -170377109
       vertices: []
       indices: 
       edges: []
@@ -198,6 +308,11 @@ TextureImporter:
     nameFileIdTable:
       banquetazos fondo: 186318640
       banquetazos rojo: 5466960217440925701
+      mareado 1: -637539708
+      mareado 2: 1235034832
+      palea!: -170377109
+      tomala: -2032177352
+      zaz: -1245894989
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
